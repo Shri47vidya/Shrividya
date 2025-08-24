@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 I'm Shrividya, a Computer Science Engineering (Data Science) student at MIT Kundapura.<br/>
 🌱 I love nature and gardening — finding peace in nurturing and exploring the outdoors.<br/>
 📚 Passionate about reading and exploring new things.<br/>
