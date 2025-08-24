@@ -1,4 +1,2 @@
-# Shrividya
-This  is my first Git Repository.
-<br>
-Author - Shrividya
+# Hi i am Shrividya
+Studying Computer Science(Data Science) at Moodlakatte Institute of Technology<br/>
